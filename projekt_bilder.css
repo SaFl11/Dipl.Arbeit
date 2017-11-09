@@ -1,0 +1,247 @@
+/* kantone */
+#sg{
+    background: url(img/kantone/SG_kathedrale.jpg);
+    background-size: cover;
+}
+#ag{
+    background: url(img/kantone/AG_schloss_halwyl.jpg);
+    background-size: cover;
+}
+#ai{
+    background: url(img/kantone/AI_seealpsee.jpg);
+    background-size: cover;
+}
+#ar{
+    background: url(img/kantone/AR_appenzellerbahn.jpg);
+    background-size: cover;
+}
+#be{
+    background: url(img/kantone/BE_bundeshaus.jpg);
+    background-size: cover;
+}
+#bl{
+    background: url(img/kantone/BL_theater_kaiseraugst.jpg);
+    background-size: cover;
+}
+#bs{
+    background: url(img/kantone/BS_spalentor.jpg);
+    background-size: cover;
+}
+#fr{
+    background: url(img/kantone/FR_schloss_greyerz.jpg);
+    background-size: cover;
+}
+#ge{
+    background: url(img/kantone/GE_jet_deau.jpg);
+    background-size: cover;
+}
+#gl{
+    background: url(img/kantone/GL_stadtkirche.jpg);
+    background-size: cover;
+}
+#gr{
+    background: url(img/kantone/GR_caumasee.jpg);
+    background-size: cover;
+}
+#ju{
+    background: url(img/kantone/JU_etang_del_gruere.jpg);
+    background-size: cover;
+}
+#lu{
+    background: url(img/kantone/LU_kappelbruecke.jpg);
+    background-size: cover;
+}
+#ne{
+    background: url(img/kantone/NE_schloss_neuchatel.jpg);
+    background-size: cover;
+}
+#nw{
+    background: url(img/kantone/NW_titlis.jpg);
+    background-size: cover;
+}
+#ow{
+    background: url(img/kantone/OW_freilichtmuseum_ballenberg.jpg);
+    background-size: cover;
+}
+#sh{
+    background: url(img/kantone/SH_rheinfall.jpg);
+    background-size: cover;
+}
+#so{
+    background: url(img/kantone/SO_schloss_waldegg.jpg);
+    background-size: cover;
+}
+#sz{
+    background: url(img/kantone/SZ_schloss_rapperswil.jpg);
+    background-size: cover;
+}
+#tg{
+    background: url(img/kantone/TG_saurer_museum.jpg);
+    background-size: cover;
+}
+#ti{
+    background: url(img/kantone/TI_castelgrande.jpg);
+    background-size: cover;
+}
+#ur{
+    background: url(img/kantone/UR_tellskapelle.jpg);
+    background-size: cover;
+}
+#vd{
+    background: url(img/kantone/VD_schloss_chillon.jpg);
+    background-size: cover;
+}
+#vs{
+    background: url(img/kantone/VS_matterhorn.jpg);
+    background-size: cover;
+}
+#zg{
+    background: url(img/kantone/ZG_zug_stadt.jpg);
+    background-size: cover;
+}
+#zh{
+    background: url(img/kantone/ZH_st_peter_kirche.jpg);
+    background-size: cover;
+}
+
+/* kantonswappen */
+#agw{
+    background: url(img/wappen/ag.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#aiw{
+    background: url(img/wappen/ai.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#arw{
+    background: url(img/wappen/ar.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#bew{
+    background: url(img/wappen/be.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#blw{
+    background: url(img/wappen/bl.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#bsw{
+    background: url(img/wappen/bs.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#frw{
+    background: url(img/wappen/fr.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#gew{
+    background: url(img/wappen/ge.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#glw{
+    background: url(img/wappen/gl.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#grw{
+    background: url(img/wappen/gr.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#juw{
+    background: url(img/wappen/ju.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#luw{
+    background: url(img/wappen/lu.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#new{
+    background: url(img/wappen/ne.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#nww{
+    background: url(img/wappen/nw.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#oww{
+    background: url(img/wappen/ow.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#sgw{
+    background: url(img/wappen/sg.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#shw{
+    background: url(img/wappen/sh.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#sow{
+    background: url(img/wappen/so.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#szw{
+    background: url(img/wappen/sz.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#tgw{
+    background: url(img/wappen/tg.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#tiw{
+    background: url(img/wappen/ti.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#urw{
+    background: url(img/wappen/ur.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#vdw{
+    background: url(img/wappen/vd.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#vsw{
+    background: url(img/wappen/vs.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#zgw{
+    background: url(img/wappen/zg.jpg);
+    background-size: cover;
+    height: 120px;
+}
+#zhw{
+    background: url(img/wappen/zh.jpg);
+    background-size: cover;
+    height: 120px;
+}
+
+/* sehenswürdigkeiten */
+.auswahlbild{
+    height: 100%;
+    width: 182.5px;
+    border: 1px solid black;
+}
+.auswahlbild:nth-child(2){
+    float: right;
+}
